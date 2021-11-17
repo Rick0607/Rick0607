@@ -1,4 +1,4 @@
-## <img height="60" width="60" src="" /> Welcome 🎉 to my profile.
+## Welcome 🎉 to my profile.
 
 ### Through 18 years of WEB and Hybrid Mobile development
 #### ABOUT ME
